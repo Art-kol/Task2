@@ -31,7 +31,7 @@ namespace Task2
 
         public override void Display()
         {
-            Console.WriteLine($"Quadratic function: y = {a}x² + {b}x + {c}");
+            Console.WriteLine($"Quadratic function: y = {a}x^2 + {b}x + {c}");
         }
 
         // Свойства для коэффициентов b и c
